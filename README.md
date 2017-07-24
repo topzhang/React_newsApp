@@ -8,6 +8,8 @@ React案例
 
 ## 4 头部组件
 
+npm start启动项目
+
 
 
 
